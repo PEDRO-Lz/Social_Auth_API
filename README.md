@@ -1,5 +1,7 @@
 Este é um projeto com backend **Node.js** e frontend **React**, que oferece um sistema para o usuário se cadastrar, fazer login e integrar sua conta com o Twitter e o YouTube. Após o login, os dados do usuário e as integrações são exibidos na página inicial, podendo ser utilizados para outras finalidades posteriormente.
 
+![home](./front/public/home.png)
+
 O sistema oferece suporte a:
 
 ✅ Cadastro e login com e-mail e senha  
